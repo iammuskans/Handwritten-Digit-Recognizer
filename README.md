@@ -32,5 +32,5 @@ Architecture:
 - Softmax output (10 classes)
 
 
-Clone the repository:
+
 
